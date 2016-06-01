@@ -1,0 +1,21 @@
+.sidebar {
+	width: 30%;
+	float: left;
+	background-color: #E4C3C9;
+	min-height:100vh;
+
+
+	ul {
+		margin: 0;
+		padding: 0;
+		li {
+			list-style: none;
+		
+		}
+	}
+}
+
+
+.sidebar a {
+	color:white;
+}
